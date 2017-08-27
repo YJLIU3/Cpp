@@ -7,8 +7,7 @@ struct A
 	long _il;
 	char _iC2;
 	double _id;
-};
-//´òÂÒË³Ğò
+
 struct B
 {
 	char _iC1;
