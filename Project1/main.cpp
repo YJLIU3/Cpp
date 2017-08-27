@@ -15,6 +15,8 @@ struct B
 	long _il;
 	double _id;
 };
+
+// Test for size of typedef
 int main() {
 	cout << sizeof(A) << endl;
 	cout << sizeof(B) << endl;
